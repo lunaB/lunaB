@@ -1,7 +1,9 @@
 # 나영채 [NA YOUNG CHAE]
 ## Introduce
-세종대학교 바이오산업자원공학과 19학번 나영채입니다. 취미로 소프트웨어 프로그래밍을 하고있습니다. 인공생명체를 만들게 될 수 있을까요?  
+세종대학교 바이오산업자원공학과 19학번 나영채입니다. 취미로 소프트웨어 프로그래밍을 하고있습니다. 
+인공생명체를 만들게 될 수 있을까요?  
 제 프로필을 보러오신분들 환영해요! 열심히 살고있다고 자부하지만, 자만하지 않겠습니다.
+https://github.com/resume
 <!--
 **lunaB/lunaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
