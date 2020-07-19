@@ -1,8 +1,8 @@
 ## Introduce
 세종대학교 바이오산업자원공학과 19학번 나영채입니다. 취미로 소프트웨어 프로그래밍을 하고있습니다.  
 인공생명체를 만들게 될 수 있을까요? 열심히 살고있다고 자부하지만, 자만하지 않겠습니다.
-![status](https://github-readme-stats.vercel.app/api?username=lunab&show_icons=true&hide_border=true)
 <!--
+![status](https://github-readme-stats.vercel.app/api?username=lunab&show_icons=true&hide_border=true)
 **lunaB/lunaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
