@@ -2,7 +2,7 @@
 세종대학교 바이오산업자원공학과 19학번 나영채입니다. 취미로 소프트웨어 프로그래밍을 하고있습니다.  
 인공생명체를 만들게 될 수 있을까요? 열심히 살고있다고 자부하지만, 자만하지 않겠습니다.
 ![status](https://github-readme-stats.vercel.app/api?username=lunab&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunab&layout=compact&count_private=true)
 
 <!--
 ![status](https://github-readme-stats.vercel.app/api?username=lunab&show_icons=true&hide_border=true)
