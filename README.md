@@ -3,6 +3,7 @@
 인공생명체를 만들게 될 수 있을까요? 열심히 살고있다고 자부하지만, 자만하지 않겠습니다.
 ## NOW!
 - 데일리퀘스트 : https://github.com/lunaB/daily-quest
+- SAI동아리운영 : https://github.com/sju-coml
 ## WOW!
 ![status](https://github-readme-stats.vercel.app/api?username=lunab&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunab&layout=compact&count_private=true)
