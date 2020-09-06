@@ -7,7 +7,7 @@
 - 스르릉(SRR4U) : startup (2020.02.04 ~)
 ## WOW!
 ![status](https://github-readme-stats.vercel.app/api?username=lunab&show_icons=true&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunab&layout=compact&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunab&layout=compact&count_private=true&include_all_commits=true&hide=Jupyter%20Notebook&layout=compact)
 
 
 <!--
