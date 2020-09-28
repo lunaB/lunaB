@@ -7,7 +7,7 @@
 - SAI동아리운영 : https://github.com/sju-coml
 - 스르릉(SRR4U) : startup (2020.02.04 ~)
 - SK ICT 장애인 보조공학기기 공모전 (2차 진행중)
-- 중소벤처기업부 청정콘 접수완료
+
 ## ✨WOW!✨
 ![status](https://github-readme-stats.vercel.app/api?username=lunab&show_icons=true&hide_border=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunab&layout=compact&count_private=true&include_all_commits=true&hide=Jupyter%20Notebook)
