@@ -1,5 +1,6 @@
 ## Introduce
 세종대학교 바이오산업자원공학과 19학번 나영채입니다. 인공생명체를 만들게 될 수 있을까요?  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlunaB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/lunaB)
 [💬 영채의 발자취](https://github.com/lunab/resume)
 
 ## ⚡NOW!⚡
