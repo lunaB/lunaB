@@ -8,7 +8,7 @@
 ## Now✨
 - 데일리퀘스트 : https://github.com/lunaB/daily-quest
 - SAI동아리운영 : https://github.com/sju-coml
-- 스르릉(SRR4U) : startup (2020.02.04 ~)
+- Seullng(스르릉) CTO (2020.02.04 ~)
 
 <!--
 ## WOW!✨
