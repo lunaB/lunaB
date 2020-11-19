@@ -6,9 +6,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlunaB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/lunaB)
 
 ## Now✨
-- 데일리퀘스트 : https://github.com/lunaB/daily-quest
-- SAI동아리운영 : https://github.com/sju-coml
 - Seullng(스르릉) CTO (2020.02.04 ~)
+- 데일리퀘스트 : https://github.com/lunaB/daily-quest
+- SAI 인공지능동아리 설립 : https://github.com/sju-coml
 
 <!--
 ## WOW!✨
