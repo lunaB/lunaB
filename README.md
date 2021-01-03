@@ -19,6 +19,7 @@
 ## 🌱IDEA!🌱 (같이개발할 사람?)
 - mmorpg 퀘스트 대신 만들어주는 인공지능 
 - gan 기반 lofi 생성기
+- AI기반 라디오 시각화 
 
 <!--
 ![status](https://github-readme-stats.vercel.app/api?username=lunab&show_icons=true&hide_border=true)
