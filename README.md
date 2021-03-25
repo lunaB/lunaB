@@ -10,21 +10,11 @@
 - 데일리퀘스트 : https://github.com/lunaB/daily-quest
 - SAI 인공지능동아리 설립 : https://github.com/sju-coml
 
-<!--
-## WOW!✨
-![status](https://github-readme-stats.vercel.app/api?username=lunab&show_icons=true&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunab&layout=compact&count_private=true&include_all_commits=true&hide=Jupyter%20Notebook)
--->
-
 ## 🌱IDEA!🌱 (같이개발할 사람?)
-- mmorpg 퀘스트 대신 만들어주는 인공지능 
-- gan 기반 lofi 생성기
-- AI기반 라디오 시각화 
+Team: Project-Luna 에서 같이 개발할 개발자 팀원을 모집중입니다~  
+문의주세요~
 
 <!--
-![status](https://github-readme-stats.vercel.app/api?username=lunab&show_icons=true&hide_border=true)
-
-
 **lunaB/lunaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
