@@ -1,5 +1,6 @@
 ## Introduce
 세종대학교 바이오산업자원공학과 19학번 나영채입니다. 인공생명체를 만들게 될 수 있을까요?  
+
 [💬 나영채 설명서](https://github.com/lunab/resume)
 
 ## ⚡ Me
