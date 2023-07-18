@@ -1,8 +1,7 @@
 ## Introduce
 세종대학교 바이오산업자원공학과 19학번 나영채입니다. 인공생명체를 만들게 될 수 있을까요?  
 
-[💬 나영채의 이력서](https://www.notion.so/8f0ac69185dc41048d8e5941d40a96f8)  
-[💬 나영채의 개발인생](https://github.com/lunab/resume)
+[💬 나영채의 이력서](https://www.notion.so/8f0ac69185dc41048d8e5941d40a96f8) 
 
 ## ⚡ ABC
 - Inzent(주) - backend developer intern (2017.02 ~ 2018.02)
