@@ -1,11 +1,28 @@
 ### YoungChae Na -- @lunaB
-안녕하세요 나영채의 GITHUB에 오신걸 환영합니다.
+안녕하세요 나영채의 GITHUB에 오신걸 환영합니다.  
+Backend, Frontend(Web, App), AI, Biotechnology, Economy 등 다방면으로 관심이 있는 개발자입니다.  
+현재 세종대학교에 재학중이며, 현재 진행중인 사이드 프로젝트는 다음과 같습니다.
+- [메타휴먼 버추얼 유튜버](https://luna-b.tistory.com/category/2.%20Development/%EB%A9%94%ED%83%80%ED%9C%B4%EB%A8%BC%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- [페르소나 챗 교육 어플리케이션]()
 
-## I’m currently working on
+해당 주제에 관심이 있으신 분은 연락해주세요.
 
-## I’m currently learning
+<p align="center">
+  <a href="https://github.com/lunaB">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlunaB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/0.0chae/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="[luna20617@gmail.com](https://www.notion.so/lunab/NEW-5f8e0b1621a24283ba02b13927e79895)"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="luna20617@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://luna-b.tistory.com/">Tistory</a>
+</p>
 
-## I’m looking to collaborate on
+
+## Currently learning
+현재 LLM과 프롬프트 엔지니어링에 관심을 갖고 있으며, 메타휴먼의 개발을 목표로 공부하고있습니다.
+
 
 ## ⚡ A to Z
 *Career*
@@ -19,7 +36,6 @@
 - 세종대학교 컴퓨터공학과 재학 (2023 ~ )
 - ~~세종대학교 바이오산업자원공학과 (2019 ~ 2020)~~
 - 양영디지털고등학교 소프트웨어개발과 졸업 (2016 ~ 2018)
-  
 
 *StartUP*
 - 2020 세종대학교 동계 Start Up Camp 대상 [중앙일보](https://www.joongang.co.kr/article/23715832#home)
@@ -43,8 +59,8 @@
 - 2017 SK STAC+ 2017 인공지능 부문 최우수상 - [동아일보](https://it.donga.com/27104/)
 - 2017 HighThon 1회 우승 - [HighThon 공식페이지](https://www.facebook.com/highthon/?locale=ko_KR)
 
-*Education*
-- 2023 TMAX IT희망학교 파이썬 웹서버 과정 8기 멘토(6개월)
+*Education & Mentoring*
+- 2023 TMAX IT희망학교 파이썬 웹서버 과정 8기 멘토(6개월, 봉사활동)
 - 2021 SK STAC+ 2021 인공지능 부문 개발 멘토(6개월)
 - 2020 SK STAC+ 2020 미래산업(AI, IOT) 부문 멘토(6개월)
 - 2019 SK STAC+ 2019 인공지능 부문 멘토(6개월)
@@ -57,6 +73,4 @@
 - 2021 세종대학교 인공지능 그룹 운영 및 NLP팀
 - 2020 세종대학교 인공지능 그룹 운영 및 CV팀 리드
 - 2019 세종대학교 인공지능 그룹 coFounder / 운영
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlunaB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/lunaB)
 
