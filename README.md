@@ -58,7 +58,7 @@ Backend, Frontend(Web, App), AI, Biotechnology, Economy 등 다방면으로 관�
 - 2020 세종대학교 동계 Start Up Camp 대상 [중앙일보](https://www.joongang.co.kr/article/23715832#home)
 - 2020 세종대학교 피칭데이 (창업경진 대회) 대상 - I SEOUL U, 광진구, 세종대학교 창업지원단
 - 2020 세종대학교 창업아이디어 경진대회 우수상 - 세종대 창업지원단
-- 실전창업교육 2기 린스타트업 선정 / 교육 - 전주정보문화산업진흥원
+- 2020 실전창업교육 2기 린스타트업 선정 / 교육 - 전주정보문화산업진흥원
 - 2020 전북대 예비창업패키지 사업 선정
 - 2020 세종대학교 캠퍼스타운 입주공모전 우수상 - [세종대학교 캠퍼스타운 지원 센터](https://blog.naver.com/sejong_campustown/222089927569)
 </details>
