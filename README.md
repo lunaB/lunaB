@@ -54,19 +54,20 @@ Backend, Frontend(Web, App), AI, Biotechnology, Economy 등 다방면으로 관�
 
 <details>
   <summary><i>Startup</i></summary>
-  
-- 2020 세종대학교 동계 Start Up Camp 대상 [중앙일보](https://www.joongang.co.kr/article/23715832#home)
-- 2020 세종대학교 피칭데이 (창업경진 대회) 대상 - I SEOUL U, 광진구, 세종대학교 창업지원단
-- 2020 세종대학교 창업아이디어 경진대회 우수상 - 세종대 창업지원단
-- 2020 실전창업교육 2기 린스타트업 선정 / 교육 - 전주정보문화산업진흥원
-- 2020 전북대 예비창업패키지 사업 선정
-- 2020 세종대학교 캠퍼스타운 입주공모전 우수상 - [세종대학교 캠퍼스타운 지원 센터](https://blog.naver.com/sejong_campustown/222089927569)
+- 2024 [휴머너] 세종대학교 창업지원단 우수창업동아리 선정
+- 2023 [휴머너] 세종대학교 동계 창업 캠프 최우수상
+- 2020 [스르릉] 세종대학교 동계 Start Up Camp 대상 [중앙일보](https://www.joongang.co.kr/article/23715832#home)
+- 2020 [스르릉] 세종대학교 피칭데이 (창업경진 대회) 대상 - I SEOUL U, 광진구, 세종대학교 창업지원단
+- 2020 [스르릉] 세종대학교 창업아이디어 경진대회 우수상 - 세종대 창업지원단
+- 2020 [스르릉] 실전창업교육 2기 린스타트업 선정 / 교육 - 전주정보문화산업진흥원
+- 2020 [스르릉] 전북대 예비창업패키지 사업 선정
+- 2020 [스르릉] 세종대학교 캠퍼스타운 입주공모전 우수상 - [세종대학교 캠퍼스타운 지원 센터](https://blog.naver.com/sejong_campustown/222089927569)
 </details>
 
 <details>
   <summary><i>Award</i></summary>
   
-- 2023 세종대학교 4회 AI 챌린지 (MathWork후원), 파이썬 트랙 동상 - [](http://www.sejongpr.ac.kr/sejongnewspaperview.do?currentPage=1&searchField=&searchValue=&boardType=2&pkid=52782)
+- 2023 세종대학교 4회 AI 챌린지 (MathWork후원), 파이썬 트랙 동상 - [세종대학교 홍보실](http://www.sejongpr.ac.kr/sejongnewspaperview.do?currentPage=1&searchField=&searchValue=&boardType=2&pkid=52782)
 - 2023 세종대학교 IOT 디바이스 학술제 우수상(3등) - [소프트웨어융합대학 공식 SNS](https://www.instagram.com/p/C0Jw40SBYxA/?utm_source=ig_web_copy_link&igshid=ZTcxMWMzOWQ1OA==) 
 - 2023 세종대학교 동계 창업캠프 최우수상 - 세종대학교 소프트웨어융합대학
 - 2020 세종대학교 제8회 인공지능 해커톤 장려상
