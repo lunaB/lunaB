@@ -4,7 +4,8 @@
 Backend, Frontend(Web, App), AI, Biotechnology, Economy 등 다방면으로 관심이 있는 개발자입니다.  
 
 **현재 진행중인 사이드 프로젝트는 다음과 같습니다.**
-- [메타휴먼 버추얼 유튜버](https://luna-b.tistory.com/category/2.%20Development/%EB%A9%94%ED%83%80%ED%9C%B4%EB%A8%BC%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- [프로젝트 김민지 (메타휴먼)](https://luna-b.tistory.com/category/2.%20Development/%EB%A9%94%ED%83%80%ED%9C%B4%EB%A8%BC%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- Aitaku (인공지능 대화 플랫폼)
   
 **또한 다음의 주제에 관심이 있습니다.**
 - LLM을 이용한 시뮬레이팅
