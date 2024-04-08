@@ -54,6 +54,7 @@ Backend, Frontend(Web, App), AI, Biotechnology, Economy 등 다방면으로 관�
 
 <details>
   <summary><i>Startup</i></summary>
+  
 - 2024 [휴머너] 세종대학교 창업지원단 우수창업동아리 선정
 - 2023 [휴머너] 세종대학교 동계 창업 캠프 최우수상
 - 2020 [스르릉] 세종대학교 동계 Start Up Camp 대상 [중앙일보](https://www.joongang.co.kr/article/23715832#home)
