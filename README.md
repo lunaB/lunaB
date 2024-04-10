@@ -17,7 +17,7 @@ Backend, Frontend(Web, App), AI, Biotechnology, Economy 등 다방면으로 관�
 <p align="center">
   <a href="https://www.instagram.com/0.0chae/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://luna-b.tistory.com/"><img src="https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-  <a href="https://www.notion.so/lunab/NEW-5f8e0b1621a24283ba02b13927e79895"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://lunab.notion.site/Hi-YoungChae-s-Portfolio-5f8e0b1621a24283ba02b13927e79895?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="luna20617@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <p align="center">
