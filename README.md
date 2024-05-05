@@ -12,7 +12,7 @@ Backend, Frontend(Web, App), AI, Biotechnology, Economy 등 다방면으로 관�
 - 유저 데이터 분석 프로젝트
 - 쓸모없고 돈 안되지만, 매우 재밌는 아이디어 (웹 서비스, AI)
 
-*해당 주제에 관심이 있으신 분은 연락해주세요.*
+*해당 주제에 관심이 있으신 분은 연락해주세요. (Notion에서 제 포트폴리오를 볼 수 있습니다.)*
   
 <p align="center">
   <a href="https://www.instagram.com/0.0chae/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
